@@ -1,4 +1,4 @@
-# AngularProject1
+# KeralaTourism-Using-Angular
 
 This project was generated using Angular CLI version 20.1.5.
 
