@@ -1,0 +1,11 @@
+*{
+    color:white;
+}
+.desc-container{
+    font-family: 'Playfair Display', serif;
+}
+.carousel-img {
+  height: 680px;
+  object-fit: cover;
+  border-radius: 10px;
+}
